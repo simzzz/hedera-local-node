@@ -29,7 +29,7 @@
     {"key": "RELAY_HBAR_RATE_LIMIT_BASIC", "value":  "500000000000"},
     {"key": "RELAY_HBAR_RATE_LIMIT_EXTENDED", "value":  "600000000000"},
     {"key": "RELAY_HBAR_RATE_LIMIT_PRIVILEGED", "value":  "700000000000"},
-    {"key": "USE_ASYNC_TX_PROCESSING", "value": true}
+    {"key": "RELAY_USE_ASYNC_TX_PROCESSING", "value": true}
 ],
   "nodeConfiguration": {
     "properties": [
